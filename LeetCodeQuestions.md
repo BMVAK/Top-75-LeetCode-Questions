@@ -1,42 +1,42 @@
 
 ## Array
 
-- [] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-- [] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [] [3Sum](https://leetcode.com/problems/3sum/)
-- [] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [ ] [3Sum](https://leetcode.com/problems/3sum/)
+- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ---
 
 ## Binary
 
-- [] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
-- [] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [] [Missing Number](https://leetcode.com/problems/missing-number/)
-- [] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ---
 
 ## Dynamic Programming
 
-- [] [Climbing Stairs](https://leetcode.com/problems/climbingstairs/)
-- [] [Coin Change](https://leetcode.com/problems/coinchange/)
-- [] [Longest Increasing Subsequence](https://leetcode.com/problems/longestincreasingsubsequence/)
-- [] [Longest Common Subsequence]()
-- [] [Word Break Problem](https://leetcode.com/problems/wordbreak/)
-- [] [Combination Sum](https://leetcode.com/problems/combinationsumiv/)
-- [] [House Robber](https://leetcode.com/problems/houserobber/)
-- [] [House Robber II](https://leetcode.com/problems/houserobberii/)
-- [] [Decode Ways](https://leetcode.com/problems/decodeways/)
-- [] [Unique Paths](https://leetcode.com/problems/uniquepaths/)
-- [] [Jump Game](https://leetcode.com/problems/jumpgame/)
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbingstairs/)
+- [ ] [Coin Change](https://leetcode.com/problems/coinchange/)
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longestincreasingsubsequence/)
+- [ ] [Longest Common Subsequence]()
+- [ ] [Word Break Problem](https://leetcode.com/problems/wordbreak/)
+- [ ] [Combination Sum](https://leetcode.com/problems/combinationsumiv/)
+- [ ] [House Robber](https://leetcode.com/problems/houserobber/)
+- [ ] [House Robber II](https://leetcode.com/problems/houserobberii/)
+- [ ] [Decode Ways](https://leetcode.com/problems/decodeways/)
+- [ ] [Unique Paths](https://leetcode.com/problems/uniquepaths/)
+- [ ] [Jump Game](https://leetcode.com/problems/jumpgame/)
 
 ---
 
