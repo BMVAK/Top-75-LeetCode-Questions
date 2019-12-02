@@ -84,41 +84,41 @@
 
 ## String
 
-- [] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longestsubstringwithoutrepeatingcharacters/)
-- [] [Longest Repeating Character Replacement](https://leetcode.com/problems/longestrepeatingcharacterreplacement/)
-- [] [Minimum Window Substring](https://leetcode.com/problems/minimumwindowsubstring/)
-- [] [Valid Anagram](https://leetcode.com/problems/validanagram/)
-- [] [Group Anagrams](https://leetcode.com/problems/groupanagrams/)
-- [] [Valid Parentheses](https://leetcode.com/problems/validparentheses/)
-- [] [Valid Palindrome](https://leetcode.com/problems/validpalindrome/)
-- [] [Longest Palindromic Substring](https://leetcode.com/problems/longestpalindromicsubstring/)
-- [] [Palindromic Substrings](https://leetcode.com/problems/palindromicsubstrings/)
-- [] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encodeanddecodestrings/)
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longestsubstringwithoutrepeatingcharacters/)
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longestrepeatingcharacterreplacement/)
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimumwindowsubstring/)
+- [ ] [Valid Anagram](https://leetcode.com/problems/validanagram/)
+- [ ] [Group Anagrams](https://leetcode.com/problems/groupanagrams/)
+- [ ] [Valid Parentheses](https://leetcode.com/problems/validparentheses/)
+- [ ] [Valid Palindrome](https://leetcode.com/problems/validpalindrome/)
+- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longestpalindromicsubstring/)
+- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromicsubstrings/)
+- [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encodeanddecodestrings/)
 
 ---
 
 ## Tree
 
-- [] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximumdepthofbinarytree/)
-- [] [Same Tree](https://leetcode.com/problems/sametree/)
-- [] [Invert/Flip Binary Tree](https://leetcode.com/problems/invertbinarytree/)
-- [] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binarytreemaximumpathsum/)
-- [] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binarytreelevelordertraversal/)
-- [] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serializeanddeserializebinarytree/)
-- [] [Subtree of Another Tree](https://leetcode.com/problems/subtreeofanothertree/)
-- [] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/constructbinarytreefrompreorderandinordertraversal/)
-- [] [Validate Binary Search Tree](https://leetcode.com/problems/validatebinarysearchtree/)
-- [] [Kth Smallest Element in a BST](https://leetcode.com/problems/kthsmallestelementinabst/)
-- [] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowestcommonancestorofabinarysearchtree/)
-- [] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implementtrieprefixtree/)
-- [] [Add and Search Word](https://leetcode.com/problems/addandsearchworddatastructuredesign/)
-- [] [Word Search II](https://leetcode.com/problems/wordsearchii/)
+- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximumdepthofbinarytree/)
+- [ ] [Same Tree](https://leetcode.com/problems/sametree/)
+- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invertbinarytree/)
+- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binarytreemaximumpathsum/)
+- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binarytreelevelordertraversal/)
+- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serializeanddeserializebinarytree/)
+- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtreeofanothertree/)
+- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/constructbinarytreefrompreorderandinordertraversal/)
+- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validatebinarysearchtree/)
+- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kthsmallestelementinabst/)
+- [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowestcommonancestorofabinarysearchtree/)
+- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implementtrieprefixtree/)
+- [ ] [Add and Search Word](https://leetcode.com/problems/addandsearchworddatastructuredesign/)
+- [ ] [Word Search II](https://leetcode.com/problems/wordsearchii/)
 
 ---
 
 ## Heap
 
-- [] [Merge K Sorted Lists](https://leetcode.com/problems/mergeksortedlists/)
-- [] [Top K Frequent Elements](https://leetcode.com/problems/topkfrequentelements/)
-- [] [Find Median from Data Stream](https://leetcode.com/problems/findmedianfromdatastream/)
+- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/mergeksortedlists/)
+- [ ] [Top K Frequent Elements](https://leetcode.com/problems/topkfrequentelements/)
+- [ ] [Find Median from Data Stream](https://leetcode.com/problems/findmedianfromdatastream/)
 
