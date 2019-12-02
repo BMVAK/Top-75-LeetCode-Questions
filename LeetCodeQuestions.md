@@ -42,43 +42,43 @@
 
 ## Graph
 
-- [] [Clone Graph](https://leetcode.com/problems/clonegraph/)
-- [] [Course Schedule](https://leetcode.com/problems/courseschedule/)
-- [] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacificatlanticwaterflow/)
-- [] [Number of Islands](https://leetcode.com/problems/numberofislands/)
-- [] [Longest Consecutive Sequence](https://leetcode.com/problems/longestconsecutivesequence/)
-- [] [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/aliendictionary/)
-- [] [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graphvalidtree/)
-- [] [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/numberofconnectedcomponentsinanundirectedgraph/)
+- [ ] [Clone Graph](https://leetcode.com/problems/clonegraph/)
+- [ ] [Course Schedule](https://leetcode.com/problems/courseschedule/)
+- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacificatlanticwaterflow/)
+- [ ] [Number of Islands](https://leetcode.com/problems/numberofislands/)
+- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longestconsecutivesequence/)
+- [ ] [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/aliendictionary/)
+- [ ] [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graphvalidtree/)
+- [ ] [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/numberofconnectedcomponentsinanundirectedgraph/)
 ---
 
 ## Interval
 
-- [] [Insert Interval](https://leetcode.com/problems/insertinterval/)
-- [] [Merge Intervals](https://leetcode.com/problems/mergeintervals/)
-- [] [Non](overlapping Intervalshttps://leetcode.com/problems/nonoverlappingintervals/)
-- [] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meetingrooms/)
-- [] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meetingroomsii/)
+- [ ] [Insert Interval](https://leetcode.com/problems/insertinterval/)
+- [ ] [Merge Intervals](https://leetcode.com/problems/mergeintervals/)
+- [ ] [Non-overlapping Intervals](overlapping Intervalshttps://leetcode.com/problems/nonoverlappingintervals/)
+- [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meetingrooms/)
+- [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meetingroomsii/)
 
 ---
 
 ## Linked List
 
-- [] [Reverse a Linked List](https://leetcode.com/problems/reverselinkedlist/)
-- [] [Detect Cycle in a Linked List](https://leetcode.com/problems/linkedlistcycle/)
-- [] [Merge Two Sorted Lists](https://leetcode.com/problems/mergetwosortedlists/)
-- [] [Merge K Sorted Lists](https://leetcode.com/problems/mergeksortedlists/)
-- [] [Remove Nth Node From End Of List](https://leetcode.com/problems/removenthnodefromendoflist/)
-- [] [Reorder List](https://leetcode.com/problems/reorderlist/)
+- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverselinkedlist/)
+- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linkedlistcycle/)
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/mergetwosortedlists/)
+- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/mergeksortedlists/)
+- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/removenthnodefromendoflist/)
+- [ ] [Reorder List](https://leetcode.com/problems/reorderlist/)
 
 ---
 
 ## Matrix
 
-- [] [Set Matrix Zeroes](https://leetcode.com/problems/setmatrixzeroes/)
-- [] [Spiral Matrix](https://leetcode.com/problems/spiralmatrix/)
-- [] [Rotate Image](https://leetcode.com/problems/rotateimage/)
-- [] [Word Search](https://leetcode.com/problems/wordsearch/)
+- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/setmatrixzeroes/)
+- [ ] [Spiral Matrix](https://leetcode.com/problems/spiralmatrix/)
+- [ ] [Rotate Image](https://leetcode.com/problems/rotateimage/)
+- [ ] [Word Search](https://leetcode.com/problems/wordsearch/)
 
 ---
 
